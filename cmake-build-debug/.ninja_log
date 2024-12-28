@@ -1,0 +1,19 @@
+# ninja log v5
+3	348	7552792612464768	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+351	491	7552792613842986	inventoryManagement.exe	f7e61eb2e63604a1
+30	442	7552810057455741	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+442	552	7552810058515704	inventoryManagement.exe	f7e61eb2e63604a1
+29	431	7552810576752575	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+432	522	7552810577623321	inventoryManagement.exe	f7e61eb2e63604a1
+32	426	7552811080984894	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+426	518	7552811081866796	inventoryManagement.exe	f7e61eb2e63604a1
+10	491	7552815375690386	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+491	580	7552815376522099	inventoryManagement.exe	f7e61eb2e63604a1
+99	804	7555565694931508	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+805	1036	7555565697179798	inventoryManagement.exe	f7e61eb2e63604a1
+43	610	7555566854608052	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+611	796	7555566856359150	inventoryManagement.exe	f7e61eb2e63604a1
+50	628	7555581716297219	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+629	804	7555581717941893	inventoryManagement.exe	f7e61eb2e63604a1
+47	700	7555582085667372	CMakeFiles/inventoryManagement.dir/main.cpp.obj	d339c8cc56975759
+701	866	7555582087213142	inventoryManagement.exe	f7e61eb2e63604a1
